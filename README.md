@@ -70,7 +70,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 customer-churn-prediction/
 ├── data/
 │   └── datalab_export_2024-05-25 09_10_12.csv  # Dataset file
-├── churn_prediction.ipynb                       # Jupyter notebook with the code
+├── CCP.ipynb                       # Jupyter notebook with the code
 │                    
 ├── README.md                                   # Project README file
 └── requirements.txt                            # List of dependencies
