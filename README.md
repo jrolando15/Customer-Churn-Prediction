@@ -3,7 +3,7 @@
 #Project Description
 This project aims to predict customer churn using a machine learning model. Customer churn refers to the phenomenon where customers stop doing business with a company. By predicting churn, businesses can take proactive measures to retain customers and improve their services.
 
-#Table of Content
+# Table of Content
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
